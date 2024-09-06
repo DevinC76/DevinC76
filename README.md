@@ -10,9 +10,9 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 
 ### Technologies 
 <div style="text-align: center;">
-  <img alt="CPP" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="Python" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="MySQL" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="CPP" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="Python" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="MySQL" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <br />
 
