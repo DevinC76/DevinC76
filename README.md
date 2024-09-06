@@ -1,6 +1,5 @@
-<h1>Devin Chen / Fobat76
+<h1>Devin Chen / Fobat76 / **`Student`**
 
-**`Student`**
 
 <h2>About Me</h2>
 
