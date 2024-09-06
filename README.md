@@ -1,1 +1,7 @@
-<video poster="https://i.gifer.com/fetch/w300-preview/89/8938ebb7d571dd813288f3f72eb47139.gif" class="full-media" autoplay="" playsinline="" loop=""><source src="https://i.gifer.com/D2SG.mp4" type="video/mp4"></video>
+# Devin Chen / Fobat76
+
+**`Student`**
+
+#About Me
+
+I’m currently studying Computer Science at CUNY Hunter College. My interest in tech kicked off in fourth grade when I joined the LEGO Robotics Club at PS94. That experience got me really into coding and engineering. In 2015, I competed in the First LEGO League with my team at ps94, and we did pretty well in my opinon. I've always been into STEM as a child. Back in middle school, I worked on an app project where we created a simple medical test app. It wasn't the most sophisticated app, it was a lot of fun to work on. Now that I’m in college, I’m continuing to explore my passion for programming and developing my skills.
