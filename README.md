@@ -13,10 +13,11 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 <img alt="CPP" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img alt="Python" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="MySQL" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  Familiar with:
+</div>
+
+###Familiar with:
 <img  alt="HTML" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img alt="CSS" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-</div>
 <br />
 
 ##  My GitHub stats
