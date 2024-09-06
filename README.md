@@ -1,6 +1,5 @@
 # 👋 Hi I'm Devin / Fobat76
-
-**`Student`**
+**` I'm a Student`**
 
 <h2>About Me</h2>
 
