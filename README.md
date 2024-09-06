@@ -1,4 +1,4 @@
-# 👋 Hi I'm Devin Chen / Fobat76
+# 👋 Hi I'm Devin / Fobat76
 
 **`Student`**
 
