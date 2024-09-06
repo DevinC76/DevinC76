@@ -9,14 +9,14 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 </p>
 
 ### Technologies 
-<img align="left" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-<br />
-
-
-<div>
-          <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Fobat76&show_icons=true&theme=gotham" alt="Fobat76" />
+<div style="text-align: center;">
+  <img alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
+<br />
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fobat76&show_icons=true&theme=gotham" alt="Fobat76" />
+</div>
