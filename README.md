@@ -1,1 +1,1 @@
-<div style="padding-top:120.000%;position:relative;"><iframe src="https://gifer.com/embed/D2SG" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<video poster="https://i.gifer.com/fetch/w300-preview/89/8938ebb7d571dd813288f3f72eb47139.gif" class="full-media" autoplay="" playsinline="" loop=""><source src="https://i.gifer.com/D2SG.mp4" type="video/mp4"></video>
