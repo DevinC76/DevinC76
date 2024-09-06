@@ -9,13 +9,12 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 </p>
 
 ### Technologies 
-
-<div style="text-align: center;">
-  <img align="center" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-
+<img align="left" alt="CPP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+<br />
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fobat76&show_icons=true&theme=gotham" alt="Fobat76" />
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Fobat76&show_icons=true&theme=gotham" alt="Fobat76" />
