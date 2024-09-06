@@ -1,5 +1,5 @@
 # 👋 Hi I'm Devin / Fobat76
-**` I'm a Student`**
+**` Student/ Career seeker / Intern Candidate`**
 
 <h2>About Me</h2>
 
