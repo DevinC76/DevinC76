@@ -14,8 +14,8 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
   <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-
 <br />
+
 ### Github Stats
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Fobat76&show_icons=true&theme=darcula" alt="Fobat76" />
