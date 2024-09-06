@@ -16,7 +16,6 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 </div>
 
 <br />
-
 ### Github Stats
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Fobat76&show_icons=true&theme=darcula" alt="Fobat76" />
