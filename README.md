@@ -11,7 +11,7 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 </p>
 
 
-<h2>Technologies:</h2>
+<h2>Technologies⚙️:</h2>
 <div style="text-align: center;">
 <img alt="CPP" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img alt="Python" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
