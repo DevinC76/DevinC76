@@ -2,7 +2,7 @@
 
 
 # 👋 Hi I'm Devin / Fobat76
-**` Student/ Career seeker / Intern Candidate`**
+**` Student / Career seeker `**
 
 <h2>About Me</h2>
 
