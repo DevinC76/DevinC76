@@ -18,7 +18,7 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 </div>
 
 <br>
-<hr>
+
 
 ### Familiar with:
 <div style="text-align: center;">
