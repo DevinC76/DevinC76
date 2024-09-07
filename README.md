@@ -19,6 +19,7 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 
 <br>
 <hr>
+
 ### Familiar with:
 <div style="text-align: center;">
 <img  alt="HTML" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
