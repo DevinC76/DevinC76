@@ -1,3 +1,5 @@
+![Banner](https://link-to-your-resized-image.com/your-image.jpg)
+
 # 👋 Hi I'm Devin / Fobat76
 **` Student/ Career seeker / Intern Candidate`**
 
