@@ -1,4 +1,4 @@
-![Banner](https://link-to-your-resized-image.com/your-image.jpg)
+[![header](./banner.png)](https://asd.gsfc.nasa.gov/blueshift/wp-content/uploads/2015/07/eso0932a.jpg)
 
 # 👋 Hi I'm Devin / Fobat76
 **` Student/ Career seeker / Intern Candidate`**
