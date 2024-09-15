@@ -30,7 +30,7 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
 <h2>My GitHub stats📊</h2>
 
 <div class="badges-githubstats">
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Fobat76&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Fobat76" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fobat76&theme=dark&hide_border=true" alt="Fobat76" height="165">
   </p>
