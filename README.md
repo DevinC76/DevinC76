@@ -35,6 +35,7 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fobat76&theme=dark&hide_border=true" alt="Fobat76" height="165">
   </p>
 </div>
+
 ## 🎧 What I am listening to 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21n22d6hw3npgm7kewugleeay&cover_image=false&theme=default&show_offline=true&background_color=ffffff&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21n22d6hw3npgm7kewugleeay&redirect=true)
