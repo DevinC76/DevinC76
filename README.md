@@ -35,8 +35,3 @@ I’m currently studying Computer Science at CUNY Hunter College. My interest in
   </p>
 
 </div>
-
-## 🎧 What I am listening to 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21n22d6hw3npgm7kewugleeay&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
