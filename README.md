@@ -1,10 +1,8 @@
 # Devin Chen
 <p style="font-size: 18px;">
-Computer Science at CUNY Hunter College
+```Computer Science at CUNY Hunter College```
 </p>
 
-
-## Technical Skills⚙️
 <h2>Languages:</h2>
 <div style="text-align: center;">
 <img alt="CPP" width="60px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
