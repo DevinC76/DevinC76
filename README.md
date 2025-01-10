@@ -1,6 +1,6 @@
 # Devin Chen
 <p style="font-size: 18px;">
-```Computer Science at CUNY Hunter College```
+Computer Science CUNY Hunter College
 </p>
 
 <h2>Languages:</h2>
