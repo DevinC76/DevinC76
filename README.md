@@ -1,14 +1,12 @@
 # Devin Chen  
 ###  Bachelor's Student in Computer Science | Hunter College  
 
----
 
 ##  Education  
 - **Hunter College, CUNY**  
   *B.A. in Computer Science* (Present)  
 - **Sunset Park High School** *(09.2019 - 06.2023)*  
 
----
 
 ##  Programming Languages  
 
@@ -20,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="100px" />
 </p>
 
----
-
 ##  Libraries & Frameworks  
 
 <p align="center">
@@ -30,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" alt="Pandas" width="100px" />
 </p>
 
----
 
 ##  Software & Tools  
 
@@ -43,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="100px" />
 </p>
 
----
 
 ## Connections
 
