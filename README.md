@@ -6,7 +6,8 @@
 
 ##  Education  
 - **Hunter College, CUNY**  
-  *B.A. in Computer Science* (Present)  
+  *B.A. in Computer Science* (08.2023 - Present)
+  *B.A. in Economics* (08.2023 - Present)  
 - **Sunset Park High School** *(09.2019 - 06.2023)*  
 
 ## Connections
