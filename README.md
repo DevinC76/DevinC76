@@ -1,5 +1,3 @@
-![GitHub Banner](GithubBanner.jpg)
-
 # Devin Chen  
 ###  Bachelor's Student in Computer Science & Economics | Hunter College  
 
